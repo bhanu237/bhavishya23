@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @bhavishya
-- 👀 I’m interested in cybersecurity...
-- 🌱 I’m currently learning cybersecurity
+
